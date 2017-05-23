@@ -1,0 +1,3 @@
+
+- To run the blog locally : bundle exec jekyll serve, and go to localhost:4000
+
